@@ -3,8 +3,8 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atrizel203/Atrizel203/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=false&custom_title=Mis%20estad%C3%ADsticas" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Atrizel203/Atrizel203/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atrizel203&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=es&hide_border=false&custom_title=Mis%20estad%C3%ADsticas" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrizel203&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br />
