@@ -3,8 +3,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atrizel203&show_icons=true&theme=radical&locale=es" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atrizel203&layout=compact&theme=radical&locale=es" height="160" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atrizel203&theme=react-dark" width="100%" alt="activity graph" />
 </div>
 
 <br />
